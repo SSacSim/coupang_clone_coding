@@ -1,4 +1,6 @@
 # Coupang Clone Coding
+ - user, oauth, mailoauth API부분 작성
+ 
 ## 기술 스택  
 - AWS EC2: ubuntu20.04  
 - AWS RDS: MySQL 8.0.28  
